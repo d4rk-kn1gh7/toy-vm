@@ -1,6 +1,6 @@
-# RVM
+# toy-vm
 
-A small register-based virtual machine written entirely from scratch in Rust.
+A toy register-based virtual machine written entirely from scratch in Rust.
 
 Registers are numbered R0-R7, and each is 32 bits in size.
 
